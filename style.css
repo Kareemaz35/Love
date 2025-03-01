@@ -30,3 +30,16 @@ body {
 .hidden {
     display: none;
 }
+.emo2{
+    position: relative;
+        bottom: 388px;
+        font-size: 102px;
+        left: 31px;
+    }
+
+.emo{
+    position: relative;
+        bottom: -372px;
+        font-size: 94px;
+        left: -149px;
+}
