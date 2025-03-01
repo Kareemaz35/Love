@@ -3,7 +3,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: #f0f0f0;
+    background-color: #c77070;
     margin: 0;
 }
 
@@ -14,14 +14,17 @@ body {
 }
 
 .message {
-    font-size: 20px;
-    margin-top: 20px;
-    background-color: pink;
-    padding-bottom: 0px;
-    padding: 240px 100px 0px 100px;
-    border-radius: 5px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    justify-items: center;
+
+    position: fixed;
+        font-size: 20px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        background-color: pink;
+        padding-bottom: 0px;
+        /* padding: 240px 100px 0px 100px; */
+        border-radius: 10px;
+        box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.1);
+        justify-items: center;
 }
 
 .hidden {
